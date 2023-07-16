@@ -1,4 +1,4 @@
-// Àç±Í ÇÔ¼ö
+// ìž¬ê·€ í•¨ìˆ˜
 #include <stdio.h>
 
 void RecurSiveFunc(int num) {
