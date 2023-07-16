@@ -1,4 +1,4 @@
-// 이진 검색
+// 이진 탐색
 #include <stdio.h>
 
 int BSearch(int ar[], int len, int target) {
