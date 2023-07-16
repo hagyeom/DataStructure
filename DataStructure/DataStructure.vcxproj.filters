@@ -42,5 +42,17 @@
     <ClCompile Include="HanoiTowerSolu.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Factorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StarPrintByRecursion.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RecursivePrintFrom_1_to_n.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RecursiveSum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
