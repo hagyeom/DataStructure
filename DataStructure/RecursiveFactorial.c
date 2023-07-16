@@ -1,4 +1,4 @@
-// ÆÑÅä¸®¾óÀÇ Àç±ÍÀû ±¸Çö
+// íŒ©í† ë¦¬ì–¼ì˜ ìž¬ê·€ì  êµ¬í˜„
 #include <stdio.h>
 
 int Factorial(int n) {
