@@ -72,5 +72,14 @@
     <ClCompile Include="insertion_sort_ex.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CodeUp_1445.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeUp_1353.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeUp_1452.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
